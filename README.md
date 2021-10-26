@@ -1,0 +1,2 @@
+# karate
+Automated testing exercises
