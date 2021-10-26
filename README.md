@@ -1,2 +1,3 @@
 # karate
-Automated testing exercises
+Automated testing exercises using Karate framework
+
